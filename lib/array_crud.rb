@@ -1,8 +1,9 @@
 def create_an_empty_array
-  
+actors = []
 end
 
 def create_an_array
+  actors = ["Christian", "Denzel", "Richards", "Forrest"]
   
 end
 
